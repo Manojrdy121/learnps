@@ -1,1 +1,5 @@
 Hi this is new test file
+
+Here are new changes to the file 
+add script
+`date %d`
